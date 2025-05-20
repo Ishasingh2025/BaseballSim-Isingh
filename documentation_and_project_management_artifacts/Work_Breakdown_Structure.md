@@ -1,0 +1,7 @@
+- Made the GitHub repo  
+- Added folders  
+- Wrote the simulation code  
+- Ran the code for 1000 games  
+- Added everything to the right folders  
+- Started writing the required docs  
+- Will post the repo and reflection on Canvas
